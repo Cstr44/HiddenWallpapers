@@ -11,7 +11,7 @@ static NSArray * _logos_meta_method$_ungrouped$Bokeh$presetWallpaperOptions(Clas
             @{@"bokehVariant": @"Silver_v01", @"kSBUIMagicWallpaperThumbnailNameKey": @"BokehSilver_thumb", @"thumbnailImageName": @"BokehSilver_thumb"},
             @{@"bokehVariant": @"BokehGradient", @"kSBUIMagicWallpaperThumbnailNameKey": @"BokehGradient_thumb", @"thumbnailImageName": @"BokehGradient_thumb"},
             @{@"bokehVariant": @"BokehGradientSilver", @"kSBUIMagicWallpaperThumbnailNameKey": @"BokehGradientSilver_thumb", @"thumbnailImageName": @"BokehGradientSilver_thumb"},
-            @{@"bokehVariant": @"Rainbow", @"kSBUIMagicWallpaperThumbnailNameKey": @"", @"thumbnailImageName": @""},
+            @{@"bokehVariant": @"Rainbow", @"kSBUIMagicWallpaperThumbnailNameKey": @"BokehRainbow_thumb", @"thumbnailImageName": @"BokehRainbow_thumb"},
             @{@"bokehVariant": @"Blue_T_v01", @"kSBUIMagicWallpaperThumbnailNameKey": @"BokehBlue_T_thumb", @"thumbnailImageName": @"BokehBlue_T_thumb"},
             @{@"bokehVariant": @"Green_T_v01", @"kSBUIMagicWallpaperThumbnailNameKey": @"BokehGreen_T_thumb", @"thumbnailImageName": @"BokehGreen_T_thumb"},
             @{@"bokehVariant": @"Pink_T_v01", @"kSBUIMagicWallpaperThumbnailNameKey": @"BokehPink_T_thumb", @"thumbnailImageName": @"BokehPink_T_thumb"},
